@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Vinícius Zendron</title>
+    <link>http://viniciuszendron.github.io/project/</link>
+      <atom:link href="http://viniciuszendron.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Vinícius Zendron</copyright><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://viniciuszendron.github.io/media/profile.jpg</url>
+      <title>Projects</title>
+      <link>http://viniciuszendron.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>leaflet.multiopacity</title>
+      <link>http://viniciuszendron.github.io/project/leaflet.multiopacity/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://viniciuszendron.github.io/project/leaflet.multiopacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msfsSceneryTools</title>
+      <link>http://viniciuszendron.github.io/project/msfsscenerytools/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://viniciuszendron.github.io/project/msfsscenerytools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

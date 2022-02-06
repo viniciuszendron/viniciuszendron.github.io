@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://viniciuszendron.github.io/sitemap.xml

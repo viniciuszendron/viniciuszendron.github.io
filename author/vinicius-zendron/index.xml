@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinícius Zendron</title>
+    <link>http://viniciuszendron.github.io/author/vinicius-zendron/</link>
+      <atom:link href="http://viniciuszendron.github.io/author/vinicius-zendron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vinícius Zendron</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Vinícius Zendron</copyright>
+    <image>
+      <url>http://viniciuszendron.github.io/media/profile.jpg</url>
+      <title>Vinícius Zendron</title>
+      <link>http://viniciuszendron.github.io/author/vinicius-zendron/</link>
+    </image>
+    
+  </channel>
+</rss>

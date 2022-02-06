@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Vinícius Zendron</title>
+    <link>http://viniciuszendron.github.io/tag/other/</link>
+      <atom:link href="http://viniciuszendron.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Vinícius Zendron</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://viniciuszendron.github.io/media/profile.jpg</url>
+      <title>Other</title>
+      <link>http://viniciuszendron.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>msfsSceneryTools</title>
+      <link>http://viniciuszendron.github.io/project/msfsscenerytools/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://viniciuszendron.github.io/project/msfsscenerytools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
