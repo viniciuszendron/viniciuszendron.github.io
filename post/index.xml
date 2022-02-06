@@ -5,12 +5,31 @@
     <link>http://viniciuszendron.github.io/post/</link>
       <atom:link href="http://viniciuszendron.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Vinícius Zendron</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Vinícius Zendron</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://viniciuszendron.github.io/media/profile.jpg</url>
       <title>Posts</title>
       <link>http://viniciuszendron.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Feminicídio</title>
+      <link>http://viniciuszendron.github.io/post/femicide/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://viniciuszendron.github.io/post/femicide/</guid>
+      <description>&lt;p&gt;Nesta última segunda-feira (10/06/2019), participei da apreciação pelo pleno do Tribunal de Contas de Santa Catarina do trabalho realizado por mim e pelo auditor Antonio Felipe O. Rodrigues, sob direção da Dir. Monique Portella, acerca dos principais aspectos dos feminicídios no estado de SC entre 2011 e 2018.&lt;/p&gt;
+&lt;p&gt;No estudo, realizamos uma análise estatística dos dados de feminicídios neste período, o perfil das mortes e suas características entre as diversas regiões do estado, discutimos os custos sociais deste tipo de homicídio com base em literatura consolidada nacional e internacional e por fim realizamos uma estimação do custo econômico decorrente da perda de renda e produtividade ocasionados com o óbito prematuro destas vítimas, bem como o custo para o estado (com ações processuais, sistema prisional e de justiça, sistema de saúde, entre outros).&lt;/p&gt;
+&lt;p&gt;Para o trabalho, com os dados fornecidos pelas Secretarias de Estado, realizamos análises e criamos visualizações de dados com o auxílio de linguagens de programação como o R. Realizamos extensa revisão bibliográfica com base em estudos prévios e para a estimação dos custos econômicos utilizamos programação em R para extrair microdados das Pesquisas Amostrais do IBGE e gerar modelos econométricos que nos possibilitaram chegar a uma estimativa.&lt;/p&gt;
+&lt;p&gt;Os feminicídios são um caso qualificado de homicídio e são crimes que podem ser evitados. Espera-se que com esse trabalho, abra-se a oportunidade para outros estudos e auditorias na gestão pública acerca das ações e medidas de prevenção e conscientização (além das iniciativas já existentes da Secretaria de Segurança Pública, Polícia Civil, etc.) que podem ser tomadas pelo Estado.&lt;/p&gt;
+&lt;p&gt;Por fim, ficou aprovado o voto do Conselheiro Relator Wilson R. Wan-Dall, onde fez recomendações às Secretarias de Estado, que podem ser conferidas na notícia completa publicada no &lt;a href=&#34;https://www.mpc.sc.gov.br/noticias/tce-sc-calcula-custo-do-feminicidio-em-santa-catarina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; do Tribunal de Contas.&lt;/p&gt;
+&lt;p&gt;A quem possa interessar, a apresentação do trabalho realizada no plenário durante a sessão ordinária do dia 10/06 pelo colega Antonio Felipe O. Rodrigues está disponível através do link (a partir dos 58min): &lt;a href=&#34;https://youtu.be/xT_UIirJR5k?t=3481&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/xT_UIirJR5k?t=3481&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/xT_UIirJR5k?t=3481&#34; title=&#34;Sessão Ordinária de 10/06/2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;thumbnail_video.jpg&#34; alt=&#34;Sessão Ordinária 10/06/2019&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Uma série de 3 episódios sobre os feminicídios em Santa Catarina, com base nos resultados do estudo, foi realizada pela NSC TV (afiliada da Rede Globo) e exibida no Jornal do Almoço nos dias 16, 17 e 18 de Julho. As matérias podem ser conferidas no portal G1:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/sc/santa-catarina/noticia/2019/07/16/em-sc-maioria-das-vitimas-de-feminicidios-e-branca-e-nao-terminou-ensino-medio-diz-tce.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Em SC, maioria das vítimas de feminicídios é branca e não terminou ensino médio, diz TCE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/sc/santa-catarina/noticia/2019/07/17/alem-da-dor-as-familias-sc-deixa-de-acumular-mais-de-r-420-milhoes-em-7-anos-por-causa-de-feminicidios.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Além da dor às famílias: SC deixa de acumular mais de R$ 420 milhões em 7 anos por causa de feminicídios&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/sc/santa-catarina/noticia/2019/07/18/campanhas-buscam-prevencao-mas-numero-de-feminicidios-continua-crescendo-em-sc.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Campanhas buscam prevenção, mas número de feminicídios continua crescendo em SC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
